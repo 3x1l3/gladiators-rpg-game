@@ -1,0 +1,9 @@
+Consumeable Class
+
+private:
+	int effectValue
+public:
+	Use() = 0;
+	getEffectValue()
+	setEffectValue()
+	

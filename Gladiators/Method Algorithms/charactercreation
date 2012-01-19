@@ -1,0 +1,13 @@
+CharacterCreation Class
+private:
+	int maxCharacters;
+	GameData* gamedata;
+	
+Public:
+	run() 
+		-> Ask for character name
+		-> List jobs and ask for characters
+		-> Create Character Object pass in name and job
+			-> Based on job modify character stats //Need to decide stats to change here.
+		-> Add character to Party
+		-> Make game object.

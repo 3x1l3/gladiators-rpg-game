@@ -1,0 +1,3 @@
+driver.o: driver.cc pugixml.h pugiconfig.hpp XMLWrapper.h
+pugixml.o: pugixml.cc pugixml.h pugiconfig.hpp
+XMLWrapper.o: XMLWrapper.cc pugixml.h pugiconfig.hpp XMLWrapper.h

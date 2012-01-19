@@ -1,0 +1,13 @@
+Party Class
+
+private:
+	vector<Unit*> party;
+public:
+	AddMember(Unit*);
+		-> Add to vector
+	DeleteMember(index)
+		->Delete at index
+	getAllMembers()
+		->return party vector
+	getMember(index)
+		-> get member at index in vector. Return Unit*

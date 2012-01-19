@@ -1,0 +1,9 @@
+Game Class
+
+private:
+	GameData* gamedata;
+	BackStageMenu* backstage;
+public:
+	run()
+		-> backStage.run();
+		-> Catch Exceptions too
