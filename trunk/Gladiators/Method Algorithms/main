@@ -1,0 +1,17 @@
+Main
+	Start game Menu
+		run() <- Switch //menu
+		load() <- make load menu.run(); -> game();
+		new() <- Character creationmenu.run(); -> game();
+		exit(); //cleaup
+
+do {
+	switch() {
+		case load:
+	
+		case new:
+		
+		default:
+
+} while (input != exit);
+	

@@ -1,0 +1,16 @@
+Item Class
+
+private:
+	string name
+	string description
+	int price
+	
+public:
+	Item() = 0
+	SetName()
+	SetDescription()
+	SetPrice()
+	getName()
+	getDescription()
+	getPrice()
+	

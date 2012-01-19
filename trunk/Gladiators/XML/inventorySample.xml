@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<GLAD type="items">
+    <Weapon>
+      <Name>Sword</Name>
+      <Attack>100</Attack>
+      <Defence>0</Defence>
+    </Weapon>
+    <Armor>
+      <Name>Shield</Name>
+      <Attack>0</Attack>
+      <Defence>939</Defence>
+    </Armor>
+    <Consumable>
+      <Name>Potion</Name>
+      <Value>100</Name>
+    </Consumeable>
+</Glad>

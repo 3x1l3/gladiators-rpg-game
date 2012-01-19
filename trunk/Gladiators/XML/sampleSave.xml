@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<GLAD type="save">
+  <Money>6000</Money>
+  <BattleNumber>1</BattleNumber>
+
+  <Inventory>
+    <Weapons>3,1,2</Weapons>
+    <Armor>3,1,2</Armor>
+    <Consumeable>1,1,1</Consumeable>
+  </Inventory>
+  <Party>
+    <Character> What
+      <Name>Magnifico</Name>
+      <Level>50</Level>
+      <Equipment>
+	<LeftHand>1</LeftHand>
+	<RightHand>2</RightHand>
+	<Chest>3</Chest>
+      </Equipment>
+      <Attack>1000</Attack>
+      <Defence>1300</Defence>
+      <Job>Paladin</Job>
+      <HP>5000</HP>
+      <Experience>0</Experience>
+    </Character>
+    
+  </Party>
+
+</GLAD>

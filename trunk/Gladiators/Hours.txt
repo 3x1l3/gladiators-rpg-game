@@ -1,0 +1,53 @@
+friday 19th november = 4 people 2:30 - 8:30 total hours = 6x4 = 24 hours
+
+sunday november 21st = 4 people 2:45 - 9:00 total hours = 6.25x4 = 25 hours
+
+monday november 22nd = 4 people 3:00 - 7:45 total hours = 4.75x4 = 19 hours
+
+tuesday november 23rd = 4 people 4:45 - 11:30 total hours = 6.75x4 = 27 hours - .5 hour (early leaver) = 27.5
+
+wedensday november 24th 4 people 4 - 12:00 total hours = 8x4 = 32 hours - 3 hours (one person had class) = 29 hours
+
+thrsday november 25th = 
+			1 person 4:30 - 5:30 total hours = 1 hours
+			1 person 4:30 - 10:00 total hours = 5.5 hours
+			1 person 4:30 - 11:00 total hours = 6.6 hours
+			1 person 4:30 - 11:30 total hours = 7 hours
+
+
+
+
+Running total = 
+		24
+		25
+		19
+		27.5
+		29
+		1
+		5.5
+		6.6
+		7
+
+		= 144.5  (november 25th 2010)
+
+friday november 26th = 0
+
+saturday november 27th = 4 people 9 to 5 total hours = 8x4 = 32 hours
+
+sunday november 28th = 4 people 9 to 5 total hours 8x4 = 32 hours
+
+monday november 29th = 4 people 3 - 12 total hours = 9x4 = 36 hours
+
+
+running total = 144.5
+		32
+		32
+		36
+
+		= 244.5 hours
+
+thursday deec 2 = 430 - 12 = 4x7.5 = 30
+
+
+
+244.5 + 30 = 274.5 total hours!!!

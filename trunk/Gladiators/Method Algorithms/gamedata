@@ -1,0 +1,35 @@
+GameData Class
+
+private:
+	string filename
+	istream is
+	vector<Equipable*> allEquipable
+	vector<EnemyCharacter*> allEnemies
+	int money
+	int battlenumber
+	Party party
+	ConsumableInventory playerconsumeables
+	EquipableInventory playerequipables
+	
+public:
+	LoadData() --see LoadMenu class
+	SaveData() 
+		-> Prompt user to namefile(always overwrite)
+		-> Export data to XML stream
+		-> Send XML stream to file
+	spendMoney(amount)
+		-> If amount is positive, if not make it positive
+		-> Check if amount is less then or equal to money
+		-> Return true on success, false on insufficiant funds
+	RecieveMoney(amount)
+		-> Make amount positive if not
+		-> Add to money
+	getBattleNumber()
+	incrementBattleNumber()
+	getparty()
+	getConsumableInventory()
+	getEquipableInventory()
+	getAllEnemies() const
+	getAllEquipableItems() const
+	getAllConsumableItems() const
+	

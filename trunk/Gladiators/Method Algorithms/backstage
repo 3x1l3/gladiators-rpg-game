@@ -1,0 +1,32 @@
+BackStage Class
+
+private:
+	BattleEvent* battleevent;
+	GameData* gamedata;
+	StoreMenu* storemenu;
+	EditCharacter* editcharacter;
+
+public:
+	gotoStore()
+		-> Make storemenu
+		-> storemenu.run();
+	nextfight()
+		-> Make battleevent
+		-> battleevent.run()
+		-> checkgamecompletion()
+	editCharacters()	
+		-> Make editcharacter
+		-> editcharacter.run()
+	savegame()
+		-> Run the gamedata.savegame method
+	quittomain()
+		-> Prompt user that unsaved data will be lost.
+	checkgamecompletion()
+		-> check battle number
+		-> check money
+		-> print out congradufuckulations
+		-> clean up
+		-> 
+	run()
+		-> menu for back stage. Runs a swtich for gotostore(); nextfight(); nextfight(); editcharacters(); savegame(); quittomain();
+		

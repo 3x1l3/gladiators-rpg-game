@@ -1,0 +1,17 @@
+//This has been scrapped. Will in inside the GameData class.
+
+Load Menu Class 
+	run() 
+		-> Prompt for file (check for files in save directory)
+		-> Check if file exists if doesnt exist reprompt then send to istring stream.
+		-> If exists parse(iss).
+		-> 
+	parse(istream)
+		-> Use XML parser (pugiXML) to grab information 
+		-> Assign values and populate game data. 
+		-> Create game
+		-> Clean up, clean up temporary values
+		-> game.run();
+private:
+	string filename
+	istream iss;

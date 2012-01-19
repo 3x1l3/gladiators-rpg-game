@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<GLAD>
+<Character>
+<Name>Adam</Name>
+<Job>Wizard</Job>
+<HP>100</HP>
+<Strength>100</Strength>
+<Speed>47</Speed>
+</Character>
+<Money>4500</Money>
+<BattlesFought>28</BattlesFought>
+</GLAD>
